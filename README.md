@@ -1,8 +1,15 @@
 # 2D Platformer Game (Godot Engine)
 
-This document summarizes the steps and functionalities implemented for the creation of a small 2D game using the Godot Engine.
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![University](https://img.shields.io/badge/Context-University%20Project-blue)
+![Tech](https://img.shields.io/badge/Tech-GDScript%20%7C%20Spark%20%7C%20Godot%20%Game%20%Engine-orange)
+
+**University of Patras - CEID**
+**Course:** Game Development
+**Student:** Vasilopoulos Panagiotis (ID: 1097453)
 
 ## 🎮 Creating a Small 2D Game
+This document summarizes the steps and functionalities implemented for the creation of a small 2D game using the Godot Engine.
 
 ### 1. Level Design
 * Created a `Main.tscn` scene which includes a **TileMap**.
