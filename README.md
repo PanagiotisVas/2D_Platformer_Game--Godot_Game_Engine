@@ -65,7 +65,6 @@ Input actions were defined using the Godot Input Map.
 | Move Right | **D** |
 | Jump | **Space** |
 
----
 
 ## 🚀 Extensions
 
@@ -73,6 +72,7 @@ In addition to the core requirements above, the project was expanded with the fo
 
 * **Advanced Player Animation:** A fourth animation state was added to the character controller. The player now features a distinct sprite for **Falling**, separate from the **Jumping** (ascending) animation, providing smoother visual feedback.
 
+---
 
 ### 🎵 Audio Assets Setup
 Due to GitHub file size limits, the high-quality audio files are hosted externally.
