@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://bmct13xtlreg8"]
+
+[ext_resource type="AudioStream" uid="uid://dskme2xlvcabs" path="res://audio/music/background-music.wav" id="1_k17rw"]
+
+[node name="MusicManager" type="Node"]
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("1_k17rw")
+autoplay = true
+bus = &"Music"
